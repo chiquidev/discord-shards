@@ -9,9 +9,9 @@ client.on('ready', () => {
 });
 
 client.on('message', (message) => {
-    if(message.content.startsWith('shard')) {
-      message.channel.send(`Mi shard en este servidor es: **${shard.id}**`);
-    }
+   // if(message.content.startsWith('shard')) {
+   //   message.channel.send(`Mi shard en este servidor es: **${shard.id}**`);
+   // }
 
 });
 
