@@ -9,7 +9,6 @@ client.on('ready', () => {
 
 
 client.on('message', (message) => {
-    const Discord = require("discord.js");
     if(message.content.startsWith('shard')) {
       message.channel.send(`Mi shard en este servidor es: **${message.guild.shardID}** y tiene un ping de **${message.guild.shard.ping}**ms`);
     }
