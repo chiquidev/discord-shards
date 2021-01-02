@@ -15,4 +15,4 @@ client.on('message', (message) => {
 
 });
 
-client.login(client.config.token).catch(console.error);
+client.login(config.token).catch(console.error);
