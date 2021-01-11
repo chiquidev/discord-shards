@@ -19,7 +19,7 @@ Para el uso de este repositorio tan solo debes tener la librería **discord.js**
 ## ¿Cómo ejecuto el bot?
 - A diferencia de un bot normal, aquí no tienes que lanzar el bot con `node index.js`, aquí deberás ejecutar el archivo `shard.js`
 
-## Entonces, ¿qué comando he de ejcutar por consola?
+## Entonces, ¿qué comando he de ejecutar por consola?
 - Deberás ejecutar el comando `node shard.js`
 
 ## No lo entendí... ¿Cómo puedo contactar contigo?
