@@ -14,7 +14,7 @@ Para el uso de este repositorio tan solo debes tener la librería **discord.js**
 - Al lanzar diferentes particiones, el consumo del bot se multiplicará por la cantidad de shards/particiones que hayamos ejecutado.
 
 ## ¿Cómo puedo ver en que shard se encuentra mi servidor?
-- La función que muestra en que shard se encuentra cierto servidor es: `${message.guild.shardID}`, en este ejemplo yo he realizado que con el comando `-shard` te muestre una respuesta con el shard en el que se encuentra tu bot.
+- La función que muestra en que shard se encuentra cierto servidor es: `${message.guild.shardID}`, en este ejemplo yo he realizado que con el comando `-shard` te muestre una respuesta con el shard en el que se encuentra tu bot. 
 
 ## ¿Cómo ejecuto el bot?
 - A diferencia de un bot normal, aquí no tienes que lanzar el bot con `node index.js`, aquí deberás ejecutar el archivo `shard.js`
