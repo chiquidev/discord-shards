@@ -12,3 +12,4 @@ el manager seleccionará automáticamente el número de
 shards necesarios).
 */
  
+ 
