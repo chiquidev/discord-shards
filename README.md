@@ -29,3 +29,4 @@ Puedes abrirme una **issue** desde aquí, o puedes contactarme a través de mi s
 Agradecería que me apoyases dandome una estrella o siguiéndome, a continuación te dejo algunos links de utilidad:
 ✨ · *[Servidor de Discord](https://discord.gg/VPjePtWV6f)* 
 🔌 · *[Mi bot de Discord](https://docs.foxybot.ga)*
+ 
