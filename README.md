@@ -12,7 +12,7 @@ Para el uso de este repositorio tan solo debes tener la librería **discord.js**
 
 ## ¿Y qué cambios sufre mi servicio de hosting? 
 - Al lanzar diferentes particiones, el consumo del bot se multiplicará por la cantidad de shards/particiones que hayamos ejecutado.
-
+ 
 ## ¿Cómo puedo ver en que shard se encuentra mi servidor?
 - La función que muestra en que shard se encuentra cierto servidor es: `${message.guild.shardID}`, en este ejemplo yo he realizado que con el comando `-shard` te muestre una respuesta con el shard en el que se encuentra tu bot. 
  
