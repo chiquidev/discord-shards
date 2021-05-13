@@ -1,7 +1,7 @@
  # Uso de sharding con la librería discord.js 
 En este repositorio os explicaré como es el uso del sistema de sharding para bots de la plataforma de discord.
 
-## ¿Qué necesito?
+## ¿Qué necesito? 
 Para el uso de este repositorio tan solo debes tener la librería **discord.js** descargada.
 
 ## ¿Puedo adaptarlo a mi gusto?
