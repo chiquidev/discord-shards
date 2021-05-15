@@ -6,7 +6,7 @@ Para el uso de este repositorio tan solo debes tener la librería **discord.js**
 
 ## ¿Puedo adaptarlo a mi gusto?
 ¡Obviamente! Esto es solo un ejemplo, el archivo `shard.js` puedes añadirlo a tu bot, y automáticamente generará los shards.
-
+ 
 ## ¿Qué cambios realiza esto en mi bot?
 - No son muchos cambios los que realizará el bot, el sharding lo que realiza es como si cortaras tu bot en dos o más mitades, por tanto, si una de estas "particiones" falla, tan solo los servidores que esten asignados a esa partición sufrirán la caída o problema, y las demás particiones continuarán estables.
 
