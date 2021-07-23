@@ -3,7 +3,7 @@ En este repositorio os explicaré como es el uso del sistema de sharding para bo
 
 ## ¿Qué necesito? 
 Para el uso de este repositorio tan solo debes tener la librería **discord.js** descargada.
-
+ 
 ## ¿Puedo adaptarlo a mi gusto?
 ¡Obviamente! Esto es solo un ejemplo, el archivo `shard.js` puedes añadirlo a tu bot, y automáticamente generará los shards.
  
